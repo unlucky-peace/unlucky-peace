@@ -2,7 +2,6 @@
 ## 이런거 합니다
 - UnityEngine
 - AR/VR
-- 3D Game
 <br>
 
 ## Profile
